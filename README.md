@@ -1,25 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there 👋, I'm Yug Gupta  
 
-###
+🚀 Passionate about **Programming, problem-solving, and innovation**.  
+Currently pursuing my **B.Tech KIET Group of Institutions**.  
 
-<p align="left">My name is Yug and I'm a Btech Student, from Kiet Group Of Institutions</p>
+I love working on projects that combine creativity, logic and problem solving.  
+Always curious to learn, explore, and contribute to impactful ideas.  
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🔧 Tech Stack
+- **Languages:** Python, Java     
+- **Other Tools:** Git, GitHub, VS Code  
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java<br><br></p>
+## 🌱 Currently Exploring
+- Java   
+- Problem-Solving with Data Structures & Algorithms  
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/guptayug/ 
+- GitHub: https://github.com/Yug-Gupta  
+- Email: yuggupta905@gmail.com  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
+⭐️ *“Code. Learn. Build. Repeat.”*  
