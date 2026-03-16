@@ -9,7 +9,7 @@ Always curious to learn, explore, and contribute to impactful ideas.
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, Java , HTML , CSS , JavaScript
+- **Languages:** Java , HTML , CSS , JavaScript
 - **Other Tools:** Git, GitHub, VS Code  
 
 ---
