@@ -22,7 +22,6 @@ Always curious to learn, explore, and contribute to impactful ideas.
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/guptayug/ 
-- GitHub: https://github.com/Yug-Gupta  
 - Email: yuggupta905@gmail.com  
 
 ---
