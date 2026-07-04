@@ -78,12 +78,12 @@ A B.Tech (CSIT) Student Passionate About Software Development, Problem Solving, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yug-Gupta&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-Gupta&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yug-gupta&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug-gupta&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yug-Gupta&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yug-gupta&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,5 +100,5 @@ A B.Tech (CSIT) Student Passionate About Software Development, Problem Solving, 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yug-Gupta&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yug-gupta&style=for-the-badge" />
 </p>
