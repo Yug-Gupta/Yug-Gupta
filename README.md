@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yug Gupta</h1>
 
 <h3 align="center">
-A B.Tech (CSIT) Student Passionate About Software Development, Problem Solving, and Building Real-World Projects
+A  B.Tech (CSIT) Student Passionate About Software Development, Problem Solving, and Building Real-World Projects
 </h3>
 
 ---
