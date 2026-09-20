@@ -6,12 +6,12 @@
     and learn by creating real-world projects.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B84A5A&height=120&section=header" alt="Header"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=D9BED1&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yug+Gupta;Software+Developer;Building+Practical+Projects;Exploring+%26+Learning;Open+Source+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=FF4D5A&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yug+Gupta;Software+Developer;Building+Practical+Projects;Exploring+%26+Learning;Open+Source+Enthusiast" alt="Typing SVG"/>
 </a>
 
 </div>
