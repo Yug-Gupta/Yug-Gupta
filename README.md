@@ -6,12 +6,12 @@
     and learn by creating real-world projects.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B84A5A&height=120&section=header" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=120&section=header" alt="Header"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=C43F50&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yug+Gupta;Software+Developer;Building+Practical+Projects;Exploring+%26+Learning;Open+Source+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=E5E7EB&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Yug+Gupta;Software+Developer;Building+Practical+Projects;Exploring+%26+Learning;Open+Source+Enthusiast" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -109,4 +109,4 @@ Improving   → Data Structures & Problem Solving
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B84A5A&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=120&section=footer" alt="Footer"/>
